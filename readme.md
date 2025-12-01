@@ -1,6 +1,6 @@
-# Obsidian Select and Copy Section
+# SS.C.A.M - Section Select Copy and Merge
 
-This plugin adds "Select" and "Copy" buttons to your section headers in Obsidian, allowing you to quickly select or copy the entire content of a section (including the header itself, optionally).
+**SS.C.A.M** (Section Copy and Merge) is a productivity plugin for Obsidian that helps you manage your note content with ease. It adds "Select" and "Copy" buttons to your section headers and allows you to merge folder notes.
 
 ## Features
 
