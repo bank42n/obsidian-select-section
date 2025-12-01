@@ -1,9 +1,9 @@
 {
     "id": "sscam-plugin",
-    "name": "SS.C.A.M - Section Select Copy and Merge",
+    "name": "S.S.C.A.M. (Section Copy And Merge)",
     "version": "1.1.0",
     "minAppVersion": "0.15.0",
-    "description": "Add select and copy buttons to section headers.",
+    "description": "Add select and copy buttons to section headers, the only s.c.a.m that actually helps you organize notes.",
     "author": "BANK42n",
     "authorUrl": "https://github.com/bank42n/obsidian-select-section",
     "isDesktopOnly": false
